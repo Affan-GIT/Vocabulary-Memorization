@@ -1,0 +1,38 @@
+Word, Meaning, Pronounciation
+كلمة, Meaningful word, Kalimah
+اسم, Noun, Ism
+البيت, The House, albaitu
+المسجد, The mosque, almasjidu
+القلم, The pen, alkalamu
+الكتاب, The book, alkitabu
+الجنات, The Garden, aljannatu
+الكعبة, The Kaba, alkAbah
+الورقة, The Paper, alwaraqah
+طغمن, Food, tuagamun
+ظل, Shade, zillu
+الجسم, The body, aljismu
+ورد, Hand, waradu
+قميذ, Shirt, Qameezu
+الغر, The cave, algauru
+الكرسي, The chair, alkursiyu
+قدم, Feet, Qadamu
+البنت, The girl, albantu
+ولد, A boy, waladu
+العين, The eye, alAinu
+أذن, Ear, Uzunu
+المسلم, The Muslim, almuslimu
+الكافر, The non-believer, alkafiru
+يهودي, Jews, Yahudiyu
+فاسقو, disobedient, fasiqu
+نصيرو, Helper, Nasiru
+شاعر, Poet, shaIru
+العليم, The Knowledgable, alAlimu
+الجبيل, The ignorant, aljabilu
+الجدد, The new, aljadidu
+القديم, The old, alqadimu
+أسميه, The All hearing, AssameeU
+العليم, the All Knowing, alAleemu
+فعل, verb, fiIl
+الماضي, Perfect tense, almadi
+المضارع, Imperfect tense, almadari
+الأمر, Imperative tense, alamr
